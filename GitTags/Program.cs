@@ -2,7 +2,7 @@
 using System;
 
 // The namespace we put our program in
-namespace TestProjectForGit
+namespace GitTags
 {
     // Our class is called Program, we should change it some day
     class Program
@@ -19,7 +19,6 @@ namespace TestProjectForGit
         {
             Console.WriteLine("I'm a test for git tags");
             Console.WriteLine("Tags are a good way to remember versions");
-            Console.ReadKey();
         }
     }
 }
